@@ -1,0 +1,15 @@
+D:\WORK\00 GeekBrains\6 Знакомство с языками программирования\Семинары\DZ1\ZaDacha3\bin\Debug\net6.0\ZaDacha3.exe
+D:\WORK\00 GeekBrains\6 Знакомство с языками программирования\Семинары\DZ1\ZaDacha3\bin\Debug\net6.0\ZaDacha3.deps.json
+D:\WORK\00 GeekBrains\6 Знакомство с языками программирования\Семинары\DZ1\ZaDacha3\bin\Debug\net6.0\ZaDacha3.runtimeconfig.json
+D:\WORK\00 GeekBrains\6 Знакомство с языками программирования\Семинары\DZ1\ZaDacha3\bin\Debug\net6.0\ZaDacha3.dll
+D:\WORK\00 GeekBrains\6 Знакомство с языками программирования\Семинары\DZ1\ZaDacha3\bin\Debug\net6.0\ZaDacha3.pdb
+D:\WORK\00 GeekBrains\6 Знакомство с языками программирования\Семинары\DZ1\ZaDacha3\obj\Debug\net6.0\ZaDacha3.csproj.AssemblyReference.cache
+D:\WORK\00 GeekBrains\6 Знакомство с языками программирования\Семинары\DZ1\ZaDacha3\obj\Debug\net6.0\ZaDacha3.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\00 GeekBrains\6 Знакомство с языками программирования\Семинары\DZ1\ZaDacha3\obj\Debug\net6.0\ZaDacha3.AssemblyInfoInputs.cache
+D:\WORK\00 GeekBrains\6 Знакомство с языками программирования\Семинары\DZ1\ZaDacha3\obj\Debug\net6.0\ZaDacha3.AssemblyInfo.cs
+D:\WORK\00 GeekBrains\6 Знакомство с языками программирования\Семинары\DZ1\ZaDacha3\obj\Debug\net6.0\ZaDacha3.csproj.CoreCompileInputs.cache
+D:\WORK\00 GeekBrains\6 Знакомство с языками программирования\Семинары\DZ1\ZaDacha3\obj\Debug\net6.0\ZaDacha3.dll
+D:\WORK\00 GeekBrains\6 Знакомство с языками программирования\Семинары\DZ1\ZaDacha3\obj\Debug\net6.0\refint\ZaDacha3.dll
+D:\WORK\00 GeekBrains\6 Знакомство с языками программирования\Семинары\DZ1\ZaDacha3\obj\Debug\net6.0\ZaDacha3.pdb
+D:\WORK\00 GeekBrains\6 Знакомство с языками программирования\Семинары\DZ1\ZaDacha3\obj\Debug\net6.0\ZaDacha3.genruntimeconfig.cache
+D:\WORK\00 GeekBrains\6 Знакомство с языками программирования\Семинары\DZ1\ZaDacha3\obj\Debug\net6.0\ref\ZaDacha3.dll

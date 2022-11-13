@@ -1,0 +1,15 @@
+D:\WORK\00 GeekBrains\6 Знакомство с языками программирования\Семинары\DZ1\ZaDacha4\obj\Debug\net6.0\ZaDacha4.csproj.AssemblyReference.cache
+D:\WORK\00 GeekBrains\6 Знакомство с языками программирования\Семинары\DZ1\ZaDacha4\obj\Debug\net6.0\ZaDacha4.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\00 GeekBrains\6 Знакомство с языками программирования\Семинары\DZ1\ZaDacha4\obj\Debug\net6.0\ZaDacha4.AssemblyInfoInputs.cache
+D:\WORK\00 GeekBrains\6 Знакомство с языками программирования\Семинары\DZ1\ZaDacha4\obj\Debug\net6.0\ZaDacha4.AssemblyInfo.cs
+D:\WORK\00 GeekBrains\6 Знакомство с языками программирования\Семинары\DZ1\ZaDacha4\obj\Debug\net6.0\ZaDacha4.csproj.CoreCompileInputs.cache
+D:\WORK\00 GeekBrains\6 Знакомство с языками программирования\Семинары\DZ1\ZaDacha4\bin\Debug\net6.0\ZaDacha4.exe
+D:\WORK\00 GeekBrains\6 Знакомство с языками программирования\Семинары\DZ1\ZaDacha4\bin\Debug\net6.0\ZaDacha4.deps.json
+D:\WORK\00 GeekBrains\6 Знакомство с языками программирования\Семинары\DZ1\ZaDacha4\bin\Debug\net6.0\ZaDacha4.runtimeconfig.json
+D:\WORK\00 GeekBrains\6 Знакомство с языками программирования\Семинары\DZ1\ZaDacha4\bin\Debug\net6.0\ZaDacha4.dll
+D:\WORK\00 GeekBrains\6 Знакомство с языками программирования\Семинары\DZ1\ZaDacha4\bin\Debug\net6.0\ZaDacha4.pdb
+D:\WORK\00 GeekBrains\6 Знакомство с языками программирования\Семинары\DZ1\ZaDacha4\obj\Debug\net6.0\ZaDacha4.dll
+D:\WORK\00 GeekBrains\6 Знакомство с языками программирования\Семинары\DZ1\ZaDacha4\obj\Debug\net6.0\refint\ZaDacha4.dll
+D:\WORK\00 GeekBrains\6 Знакомство с языками программирования\Семинары\DZ1\ZaDacha4\obj\Debug\net6.0\ZaDacha4.pdb
+D:\WORK\00 GeekBrains\6 Знакомство с языками программирования\Семинары\DZ1\ZaDacha4\obj\Debug\net6.0\ZaDacha4.genruntimeconfig.cache
+D:\WORK\00 GeekBrains\6 Знакомство с языками программирования\Семинары\DZ1\ZaDacha4\obj\Debug\net6.0\ref\ZaDacha4.dll
